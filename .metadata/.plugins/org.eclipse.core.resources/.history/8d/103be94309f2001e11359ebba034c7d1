@@ -1,0 +1,9 @@
+package ilp037.creational.prototype;
+
+public class Prototype {
+	
+	public T copy() {
+		
+	}
+
+}

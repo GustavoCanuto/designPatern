@@ -1,0 +1,16 @@
+package ilp037.creational.builder;
+
+import java.net.http.HttpClient.Version;
+import java.net.http.HttpRequest;
+
+public class HttpBuilderApp {
+
+	public static void main(String[] args) {
+		HttpRequest request = HttpRequest.newBuilder()
+				.uri(new URI("https://viacep.com.br/ws/01001000/json"))
+				.version(Version.HTTP_2)
+				.GET()
+				.build();
+	}
+
+}

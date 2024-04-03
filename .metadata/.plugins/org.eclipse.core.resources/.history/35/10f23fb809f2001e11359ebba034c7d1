@@ -1,0 +1,9 @@
+package ilp037.creational.prototype;
+
+public class Prototype<T extends Cloneable> {
+	
+	public T copy() {
+		return (T) super.clone();
+	}
+
+}

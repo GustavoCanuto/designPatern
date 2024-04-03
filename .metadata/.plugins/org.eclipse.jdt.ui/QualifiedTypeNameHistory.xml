@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="isp.Cadastravel"/>
+    <fullyQualifiedTypeName name="ilp037.creational.abstractfactory.OrcArmy"/>
+    <fullyQualifiedTypeName name="ilp037.creational.abstractfactory.OrcCastle"/>
+    <fullyQualifiedTypeName name="ilp037.creational.abstractfactory.OrcKing"/>
+    <fullyQualifiedTypeName name="ilp037.creational.abstractfactory.KingdomFactory"/>
+    <fullyQualifiedTypeName name="java.net.http.HttpRequest"/>
+    <fullyQualifiedTypeName name="java.net.http.HttpClient.Version"/>
+    <fullyQualifiedTypeName name="java.net.URI"/>
+    <fullyQualifiedTypeName name="java.net.http.HttpClient"/>
+    <fullyQualifiedTypeName name="java.net.http.HttpClient.Redirect"/>
+    <fullyQualifiedTypeName name="java.net.http.HttpResponse.BodyHandlers"/>
+    <fullyQualifiedTypeName name="javax.net.ssl.SSLParameters"/>
+    <fullyQualifiedTypeName name="ilp037.creational.builder.Hero"/>
+    <fullyQualifiedTypeName name="ilp037.creational.builder.Armor"/>
+    <fullyQualifiedTypeName name="ilp037.creational.builder.HairColor"/>
+    <fullyQualifiedTypeName name="ilp037.creational.builder.Profession"/>
+    <fullyQualifiedTypeName name="ilp037.creational.builder.Hero.Builder"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ilp037.creational.factorymethod.Notification"/>
+    <fullyQualifiedTypeName name="ilp037.creational.factorymethod.SmsNotification"/>
+    <fullyQualifiedTypeName name="ilp037.creational.factorymethod.SocketNotification"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="ilp037.creational.factorymethod.NotificationFactory"/>
+    <fullyQualifiedTypeName name="ilp037.creational.factorymethod.Notification.Type"/>
+    <fullyQualifiedTypeName name="ilp037.creational.singleton.Database"/>
+</qualifiedTypeNameHistroy>

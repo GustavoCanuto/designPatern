@@ -1,0 +1,12 @@
+package ilp037.creational.singleton;
+
+public class Database {
+	
+	public static int counter;
+	
+	public Database() {
+		counter++;
+	}
+
+	
+}
