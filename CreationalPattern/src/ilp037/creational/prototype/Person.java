@@ -7,8 +7,12 @@ public class Person
 	String name;
 	Long document;
 	
-	public Person() throws InterruptedException {
-		Thread.sleep(3000);
+	public Person()  {
+		try {
+			Thread.sleep(3000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
 		System.out.println("Long time to build...");
 	}
 
