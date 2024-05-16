@@ -1,5 +1,0 @@
-package ilp037.creational.factorymethod;
-
-public class NotificationFactory {
-
-}

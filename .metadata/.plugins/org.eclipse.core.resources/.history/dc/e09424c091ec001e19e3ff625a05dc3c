@@ -1,9 +1,0 @@
-package ilp037.creational.builder;
-
-public class Hero {
-	
-	private Armor armor;
-	private HairColor hairColor;
-	private Profession profession;
-
-}

@@ -25,4 +25,19 @@
     <fullyQualifiedTypeName name="ilp037.creational.factorymethod.NotificationFactory"/>
     <fullyQualifiedTypeName name="ilp037.creational.factorymethod.Notification.Type"/>
     <fullyQualifiedTypeName name="ilp037.creational.singleton.Database"/>
+    <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+    <fullyQualifiedTypeName name="ilp037.creational.prototype.Person"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="ilp037.structural.adapter.AdvertisementStatus"/>
+    <fullyQualifiedTypeName name="ilp037.structural.adapter.Ad"/>
+    <fullyQualifiedTypeName name="ilp037.structural.adapter.Advertisement"/>
+    <fullyQualifiedTypeName name="ilp037.structural.adapter.AdverrtisementAdapter"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="ilp037.structural.proxy.ProductDAO"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.logging.Logger"/>
+    <fullyQualifiedTypeName name="java.util.logging.LogManager"/>
+    <fullyQualifiedTypeName name="ilp037.structural.proxy.ProductDAOProxy"/>
 </qualifiedTypeNameHistroy>
