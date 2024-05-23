@@ -17,11 +17,9 @@
     <fullyQualifiedTypeName name="ilp037.creational.builder.HairColor"/>
     <fullyQualifiedTypeName name="ilp037.creational.builder.Profession"/>
     <fullyQualifiedTypeName name="ilp037.creational.builder.Hero.Builder"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="ilp037.creational.factorymethod.Notification"/>
     <fullyQualifiedTypeName name="ilp037.creational.factorymethod.SmsNotification"/>
     <fullyQualifiedTypeName name="ilp037.creational.factorymethod.SocketNotification"/>
-    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
     <fullyQualifiedTypeName name="ilp037.creational.factorymethod.NotificationFactory"/>
     <fullyQualifiedTypeName name="ilp037.creational.factorymethod.Notification.Type"/>
     <fullyQualifiedTypeName name="ilp037.creational.singleton.Database"/>
@@ -40,4 +38,15 @@
     <fullyQualifiedTypeName name="java.util.logging.Logger"/>
     <fullyQualifiedTypeName name="java.util.logging.LogManager"/>
     <fullyQualifiedTypeName name="ilp037.structural.proxy.ProductDAOProxy"/>
+    <fullyQualifiedTypeName name="ilp037.behavioural.chainofresponsability.Currency"/>
+    <fullyQualifiedTypeName name="java.util.ArrayDeque"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ilp037.behavioural.command.InvokerQueue"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="ilp037.behavioural.command.BuyCommand"/>
+    <fullyQualifiedTypeName name="ilp037.behavioural.command.StockReceiver"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
 </qualifiedTypeNameHistroy>

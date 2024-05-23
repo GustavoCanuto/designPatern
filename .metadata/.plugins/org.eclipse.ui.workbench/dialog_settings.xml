@@ -15,8 +15,8 @@
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
 		<list key="orderedElements">
-			<item value="org.eclipse.jdt.ui.edit.text.java.create.getter.setter"/>
 			<item value="org.eclipse.jdt.ui.edit.text.java.generate.constructor.using.fields"/>
+			<item value="org.eclipse.jdt.ui.edit.text.java.create.getter.setter"/>
 			<item value="org.eclipse.jdt.ui.edit.text.java.generate.tostring"/>
 		</list>
 		<list key="orderedProviders">
@@ -30,8 +30,8 @@
 			<item value="1"/>
 		</list>
 		<list key="textArray">
-			<item value="get"/>
 			<item value="constr"/>
+			<item value="get"/>
 			<item value="tost"/>
 		</list>
 	</section>
